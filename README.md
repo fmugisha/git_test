@@ -1,1 +1,1 @@
-This is Fred's first git project!
+This is draft images and test!
